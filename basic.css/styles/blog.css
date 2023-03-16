@@ -1,0 +1,27 @@
+.page-title{
+    color: chartreuse;
+    text-decoration: underline solid red;
+    padding-bottom: 30px;
+    background-image: url(/pexels-kelvin-agustinus-1973270.jpg);
+    background-position: center;
+    text-align: center;
+    font-size: 70px;
+    font-style: oblique;
+}
+.blog{
+    color: blueviolet;
+
+}
+#blog2{
+    color: chocolate;
+}
+li{
+    color: blue;
+}
+ul{
+    font-size: 25px;
+    color: brown;
+}
+ol{
+    color: chartreuse;
+}

@@ -1,0 +1,21 @@
+@use 'variables';
+
+$primary-color:red;
+
+h1{
+    color: $primary-color;
+}
+nav{
+    ul{
+        border: solid lightcoral 5px;
+        border-radius: 5px;
+
+        li{color: blue;
+        font-size: 2rem;
+        }
+    }
+}
+p{
+    
+    font-size: variables.$base-fonts;
+}

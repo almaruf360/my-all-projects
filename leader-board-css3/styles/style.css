@@ -1,0 +1,61 @@
+body{
+    background-color: #E5E5E5;
+    
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+/* top players style */
+.container{
+    background-color: #ffffff;
+    width: 870px;
+    padding: 30px;
+}
+.top-players{
+    margin-bottom: 30px;
+}
+.section-title{
+    font-size: 24px;
+    font-weight: 500px;
+    color:#562EFF ;
+    margin-top: 3px;
+    
+}
+h3{
+    height: 27px;
+    width: 103px;
+    color: black;
+    font-size: 18px;
+}
+.players{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 30px;
+}
+.player{
+    display: flex;
+    align-items: center;
+    margin-top: 29px;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+hr{
+    border: 1px solid #D1D1D1;
+}
+/* top blogs section styles */
+.blog{
+    display: flex;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+.blog-info{
+    margin-left: 16px;
+}
+.blog-title{
+    font-size: 20px;
+}

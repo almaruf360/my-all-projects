@@ -1,0 +1,15 @@
+h1 {
+    color: tomato;
+}
+
+p{
+    color: darkkhaki;
+}
+
+li{
+    color: cadetblue;
+}
+
+.fruits-container li{
+    color: chartreuse;
+}
